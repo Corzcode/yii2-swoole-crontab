@@ -8,7 +8,7 @@
 			"email" : "combo_k@126.com"
 		}
 	],
-	"minimum-stability" : "dev",
+	"minimum-stability" : "stable",
 	"require" : {
 		"php" : ">=7.0.0"
 	},
