@@ -1,7 +1,6 @@
 {
 	"name" : "corzcode/yii2-swoole-crontab",
 	"description" : "yii2 crontab developed based on swoole",
-	"type" : "yii2-extension",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Corz",

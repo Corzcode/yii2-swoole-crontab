@@ -4,9 +4,6 @@ namespace yii\crontab;
 /**
  * 解析crontab的字符串
  *
- * @author Corz<combo_k@126.com>
- * @since 2015年9月2日
- * @version 1.0
  */
 class ParseCrontab
 {

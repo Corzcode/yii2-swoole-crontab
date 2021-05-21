@@ -3,10 +3,6 @@ namespace yii\crontab;
 use Yii;
 /**
  * CLI入口控制器 包括 -d 守护
- *
- * @author 林志刚<linzg@jingxuansugou.com>
- * @since 2015年12月17日
- * @version 1.0
  */
 class Cli
 {
