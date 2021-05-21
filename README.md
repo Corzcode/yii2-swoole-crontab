@@ -95,7 +95,7 @@ PHPCLICONF=/path/to/php.ini
 script_dir=$( cd $(dirname $0); pwd)
 pidpath="$script_dir/console/runtime"
 
-helptxt="Usage: $0 {cron|cron-test|cron-dev} {start|stop|reload|restart}"
+helptxt="Usage: $0 cron {start|stop|reload|restart}"
 
 pidfile="$pidpath/$1.pid"
 cd $script_dir

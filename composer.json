@@ -1,5 +1,5 @@
 {
-	"name" : "Corzcode/yii2-swoole-crontab",
+	"name" : "corzcode/yii2-swoole-crontab",
 	"description" : "yii2 crontab developed based on swoole",
 	"type" : "library",
 	"license" : "MIT",
