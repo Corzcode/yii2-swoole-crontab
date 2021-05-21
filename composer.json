@@ -1,16 +1,16 @@
 {
 	"name" : "corzcode/yii2-swoole-crontab",
 	"description" : "yii2 crontab developed based on swoole",
-	"type" : "library",
+	"type" : "yii2-extension",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Corz",
 			"email" : "combo_k@126.com"
 		}
 	],
-	"minimum-stability" : "stable",
 	"require" : {
-		"php" : ">=7.0.0"
+		"php" : ">=7.0",
+		"yiisoft/yii2" : "~2.0.6"
 	},
 	"autoload" : {
 		"psr-4" : {
