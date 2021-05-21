@@ -20,7 +20,7 @@ return [
     ],  
     'components' => [
         'cron' => [
-            'class' => 'yii\swoole-crontab\Crontab',
+            'class' => 'yii\crontab\Crontab',
             'config'=>[                
                 'user' => 'www',
                 'group' => 'www',
